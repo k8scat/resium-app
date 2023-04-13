@@ -7,6 +7,7 @@
 ## Projects
 
 - [resium-api](https://github.com/k8scat/resium-api)
+- [resium-downhub](https://github.com/k8scat/resium-downhub)
 
 ## License
 
