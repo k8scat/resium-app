@@ -1,0 +1,10 @@
+{
+	"name": "resiumapp",
+	"version": "1.0.0",
+	"main": "main.js",
+	"author": "K8sCat <k8scat@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {},
+	"devDependencies": {}
+}
